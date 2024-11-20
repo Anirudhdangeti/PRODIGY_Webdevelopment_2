@@ -1,0 +1,153 @@
+# PRODIGY_Webdevelopment_2
+{
+margin: 0;
+
+padding: 0;
+
+font-family: "Roboto", sans-serif;
+
+box-sizing: border-box;
+
+Styling the body/
+
+body {
+
+height: 100vh;
+
+display: flex;
+
+Justify-content: center;
+
+align-items: center:
+
+background-color: #lelele;
+
+margin: 0;
+
+/* Styling the stopwatch container /
+
+.stopwatch {
+
+}
+
+position: relative;
+
+width: 800px;
+
+height: 300px;
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+background: #lelele;
+
+border: 2px solid #ff9860;
+
+border-radius: 15px;
+
+overflow: hidden;
+
+Styling the buttons section */
+
+buttons (
+
+margin-top: 20px;
+
+buttons button (
+
+padding: 12px 25px;
+
+margin: 8px;
+
+font-size: 1.10m;
+
+cursor: pointer;
+
+border: 2px solid #ff98ee;
+
+border-radius: Bpx;
+
+background-color: transparent;
+
+color: #ff9800;
+
+transition: all 0.3s ease;
+
+buttons button:hover (
+
+background-color: #f19800;
+
+color: #lelele;
+
+Styling the list of laps/
+
+#laps-list (
+
+list-style: none;
+
+padding: 0;
+
+margin: 20px 0 0 0;
+
+color: #1198090;
+
+}
+
+#laps-list li {
+
+font-size: 1.1em;
+  margin: 5px 0;
+
+/* Styling the stopwatch display "/
+
+stopwatch {
+
+position: relative;
+
+inset: 4px;
+
+background: #telele;
+
+border-radius: 20px;
+
+color: #19нее;
+
+font-size: 24px;
+
+z-index: 1;
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+flex-direction: column;
+
+/* Styling the lap button
+
+lap-button {
+
+padding: 12px 25px;
+
+margin: 8px; font-size: 1.1cm; border-radius: 8px;
+
+cursor: pointer;
+
+border: 2px solid #119800;
+
+background-color: transparent;
+
+color: #ff9800;
+
+transition: all 0.3s ease;
+
+lap-button:hover {
+
+background-color: #ff9800;
+
+color: #lelele;
+}
